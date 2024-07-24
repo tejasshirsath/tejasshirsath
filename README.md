@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tejas Shirsath and I'm currently pursuing a degree in IT Engineering.</h2>
+<h2 align="left">Hi there 👋, I'm Tejas Shirsath. Welcome to my GitHub profile!</h2>
 
 ###
 
@@ -62,3 +62,37 @@
 <img src="https://raw.githubusercontent.com/tejasshirsath/tejasshirsath/output/snake.svg" alt="Snake animation" align="center" />
 
 ###
+
+
+# About Me:
+My name is Tejas Shirsath. I'm from India, passionate about technology and innovation. I love working on cool and innovative projects that push the boundaries of technology. My interests include:
+- Augmented Reality
+- Internet of Things (IoT)
+- Robotics
+- Advanced Python tools
+
+## 🎓 Education
+
+- **B.E in Information Technology | TE**  
+  *Atharva College of Engineering, Malad, Mumbai*  
+  *Sep 2023 - 2026* - Pursuing
+
+- **Diploma in Computer Engineering**  
+  *Pravin Patil Diploma College of Engineering, Bhayandar*  
+  *Dec 2020 – June 2023* – 83.89%
+
+## 💼 Experience
+
+**Web Developer Intern | Sukre Dental Clinic**  
+*July 4, 2022 – August 13, 2022*
+
+## 🛠️ Skills
+
+- **Languages**: JavaScript, Java, Python, Dart, C, C++
+- **Frontend**: HTML, CSS, JavaScript
+- **Frameworks**: Flask, Flutter
+- **Libraries**: OpenCV
+- **Databases**: MySQL
+- **Tools**: Git, GitHub
+- **OS**: Kali Linux, Ubuntu
+- **Other**: DSA, Android Development (Java), Generative AI
