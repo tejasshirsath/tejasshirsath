@@ -49,8 +49,10 @@
 
 <div align="left">
   <a href="https://www.instagram.com/tejas_s_shirsath"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
-   <a href="mailto:tejasshirsath5@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
+  <a href="mailto:tejasshirsath5@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
   <a href="https://www.linkedin.com/in/tejas-shirsath-18149b2bb"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+  <a href="https://www.hackerrank.com/profile/tejasshirsath5"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=darkgreen&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo"/></a>
+  <a href="https://leetcode.com/u/TejasShirsath"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=c26f02&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo"/></a>
 </div>
 
 ###
