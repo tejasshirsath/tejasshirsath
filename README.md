@@ -68,7 +68,6 @@
 My name is Tejas Shirsath. I'm from India, passionate about technology and innovation. I love working on cool and innovative projects that push the boundaries of technology. My interests include:
 - Augmented Reality
 - Internet of Things (IoT)
-- Robotics
 - Advanced Python tools
 
 ## 🎓 Education
