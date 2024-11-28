@@ -88,10 +88,9 @@ My name is Tejas Shirsath. I'm from India, passionate about technology and innov
 ## 🛠️ Skills
 
 - **Languages**: JavaScript, Java, Python, Dart, C, C++
-- **Frontend**: HTML, CSS, JavaScript
-- **Frameworks**: Flask, Flutter
-- **Libraries**: OpenCV
-- **Databases**: MySQL
+- **Frameworks**: Flask
+- **Libraries**: OpenCV, ReactJS, Tailwind CSS, Bootstrap
+- **Databases**: Firebase, MySQL
 - **Tools**: Git, GitHub
 - **OS**: Kali Linux, Ubuntu
-- **Other**: DSA, Android Development (Java), Generative AI
+- **Other**: Android Development (Java)
