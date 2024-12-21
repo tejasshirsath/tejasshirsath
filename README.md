@@ -66,9 +66,8 @@
 
 # About Me:
 My name is Tejas Shirsath. I'm from India, passionate about technology and innovation. I love working on cool and innovative projects that push the boundaries of technology. My interests include:
-- Augmented Reality
-- Internet of Things (IoT)
-- Advanced Python tools
+- Automation Tools
+- Web Development
 
 ## 🎓 Education
 
@@ -85,12 +84,17 @@ My name is Tejas Shirsath. I'm from India, passionate about technology and innov
 **Web Developer Intern | Sukre Dental Clinic**  
 *July 4, 2022 – August 13, 2022*
 
+## 🤝 Volunteering  
+**Web Developer | Google Developer Student Clubs (GDSC)**  
+- Member of the GDSC Web Team.  
+- Contributed to building and optimizing web solutions for the club's initiatives.  
+
 ## 🛠️ Skills
 
 - **Languages**: JavaScript, Java, Python, Dart, C, C++
 - **Frameworks**: Flask
 - **Libraries**: OpenCV, ReactJS, Tailwind CSS, Bootstrap
-- **Databases**: Firebase, MySQL
+- **Databases**: MongoDB, MySQL
 - **Tools**: Git, GitHub
 - **OS**: Kali Linux, Ubuntu
 - **Other**: Android Development (Java)
