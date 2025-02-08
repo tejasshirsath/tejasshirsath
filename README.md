@@ -39,8 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo"  />
-  <img width="12" />
 
   
 </div>
@@ -51,8 +49,8 @@
   <a href="https://www.instagram.com/tejas_s_shirsath"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
   <a href="mailto:tejasshirsath5@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
   <a href="https://www.linkedin.com/in/tejas-shirsath-18149b2bb"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
-  <a href="https://www.hackerrank.com/profile/tejasshirsath5"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=darkgreen&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo"/></a>
   <a href="https://leetcode.com/u/TejasShirsath"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=c26f02&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo"/></a>
+  <a href="https://www.hackerrank.com/profile/tejasshirsath5"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=darkgreen&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo"/></a>
 </div>
 
 ###
@@ -91,10 +89,12 @@ My name is Tejas Shirsath. I'm from India, passionate about technology and innov
 
 ## 🛠️ Skills
 
-- **Languages**: JavaScript, Java, Python, Dart, C, C++
-- **Frameworks**: Flask
-- **Libraries**: OpenCV, ReactJS, Tailwind CSS, Bootstrap
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, GitHub
-- **OS**: Kali Linux, Ubuntu
-- **Other**: Android Development (Java)
+- **Language:** JavaScript, Java, Python, Dart, C, C++
+- **Framework:** Flask, ExpressJS
+- **Library:** OpenCV, ReactJS, Tailwind CSS, Bootstrap
+- **Backend:** NodeJS, ExpressJS
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub
+- **OS:** Kali Linux, Ubuntu
+- **Other:** Android Development (Java)
+
